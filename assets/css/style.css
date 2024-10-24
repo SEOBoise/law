@@ -12,7 +12,12 @@
     width: 104%;
     margin-left: -119px;
 }
-
+.slider-area .hero-cap h1 {
+    color: #fff;
+    font-size: 50px;
+    font-weight: 700;
+    text-transform: capitalize;
+}
 .newhero {
     background: rgba(36, 72, 85, 0.67);
     padding: 45px 13px 5px 45px;
